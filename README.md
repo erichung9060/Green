@@ -2,6 +2,8 @@
 
 This project uses a GitHub Actions workflow to automatically commit to this repository every day, helping to keep your GitHub contribution calendar looking green.
 
+<img width="851" height="261" alt="image" src="https://github.com/user-attachments/assets/690bab68-87ae-4126-8ec8-0e48c411444d" />
+
 ## Setup
 
 1. Fork this repository.
